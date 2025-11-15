@@ -1,19 +1,22 @@
 <h1 align="center">Hello, I'm Srushti</h1>
-<h3 align="center">A Machine Learning Engineer turned Technical Program Manager, looking to break into the field of Product Management.</h3>
+<h3 align="center">A Machine Learning Engineer at heart!</h3>
+<h3 align="center">Love working as a Technical Program Manager, collaborating with experts to solve complex and ambiguous problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srushtirs&label=Profile%20views&color=0e75b6&style=flat" alt="srushtirs" /> </p>
 
-- 🔭 I’m currently working on **skilling up in technical program management**
+- 🔭 I’m currently working on **creating weekend projects with GenAI models** to get familiar with new ML paradigms
 
-- 🌱 I’m currently learning **product management frameworks and the PRFAQ as a tool**
+- 🌱 I’m currently learning various **product management frameworks** to help me be more efficient at my job
 
 - 🤝 I’m looking for help with **learning more about the product management world**
 
-- 💬 Ask me about **machine learning, technical program management, life in Tokyo**
+- 💬 Ask me about **machine learning, technical program management, life as an expact in Tokyo/Japan**
 
 - 📫 Reach me at **[Srush's LinkedIn](https://www.linkedin.com/in/srushtirs/)**
 
-- ⚡ Fun fact **I love hiking and running and have been fortunate enough to get to the bottom of the tallest mountain on earth ;)**
+- 🏔️ My hobbies **I love hiking and running!***
+
+- ⚡ Fun fact ***I've been fortunate enough to get to the bottom of the tallest mountain on earth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
