@@ -14,9 +14,9 @@
 
 - 📫 Reach me at **[Srush's LinkedIn](https://www.linkedin.com/in/srushtirs/)**
 
-- 🏔️ My hobbies **I love hiking and running!***
+- 🏔️ My hobbies **I love hiking and running!**
 
-- ⚡ Fun fact ***I've been fortunate enough to get to the bottom of the tallest mountain on earth**
+- ⚡ Fun fact **I've been fortunate enough to get to the bottom of the tallest mountain on earth**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
